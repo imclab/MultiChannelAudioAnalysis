@@ -97,7 +97,7 @@ void MCAA_App::drawWaveForm( float height )
     
 	audio::Buffer32fRef leftBuffer = mPcmBuffer->getChannelData( audio::CHANNEL_FRONT_LEFT);
 	audio::Buffer32fRef rightBuffer = mPcmBuffer->getChannelData( audio::CHANNEL_FRONT_RIGHT );
-    //    audio::Buffer32fRef topBuffer = mPcmBuffer->getChannelData( audio::CHANNEL_FRONT_TOP );
+    audio::Buffer32fRef topBuffer = mPcmBuffer->getChannelData( audio::CHANNEL_FRONT_TOP );
     
 	int displaySize = getWindowWidth();
 	int endIdx = bufferSamples;
