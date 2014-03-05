@@ -29,6 +29,81 @@ c0000000052B4CDC500000000000024B0
 t1387580869
 s9392
 
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vImage.framework/Versions/A/vImage
+c0000000052B4CDC50000000000016E3C
+t1387580869
+s93756
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libBLAS.dylib
+c0000000052B4CDC500000000000234E8
+t1387580869
+s144616
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libLAPACK.dylib
+c0000000052B4CDC50000000000084680
+t1387580869
+s542336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libvDSP.dylib
+c0000000052B4CDC5000000000000F3D8
+t1387580869
+s62424
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libvMisc.dylib
+c0000000052B4CDC5000000000000FC9C
+t1387580869
+s64668
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/vecLib
+c0000000052B4CDC500000000000025A8
+t1387580869
+s9640
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AppKit.framework/AppKit
+c0000000052B4CDC500000000002682C8
+t1387580869
+s2523848
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+c0000000052B4CDC50000000000007D5C
+t1387580869
+s32092
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/ATS
+c0000000052B4CDC50000000000020D64
+t1387580869
+s134500
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ColorSync.framework/Versions/A/ColorSync
+c0000000052B4CDC5000000000001B3B8
+t1387580869
+s111544
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/HIServices
+c0000000052B4CDC50000000000034F94
+t1387580869
+s216980
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/LangAnalysis.framework/Versions/A/LangAnalysis
+c0000000052B4CDC5000000000000CB08
+t1387580869
+s51976
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Versions/A/PrintCore
+c0000000052B4CDC5000000000002C5F4
+t1387580869
+s181748
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/QD.framework/Versions/A/QD
+c0000000052B4CDC5000000000002B9A8
+t1387580869
+s178600
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/SpeechSynthesis
+c0000000052B4CDC50000000000011EF8
+t1387580869
+s73464
+
 N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
 c0000000052B4CDC50000000000028484
 t1387580869
@@ -39,15 +114,295 @@ c0000000052B4CDC50000000000006268
 t1387580869
 s25192
 
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c0000000052B4CDC50000000000059898
+t1387580869
+s366744
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+c0000000052B4CDC5000000000000253C
+t1387580869
+s9532
+
 N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreAudio.framework/CoreAudio
 c0000000052B4CDC5000000000000E448
 t1387580869
 s58440
 
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c0000000052B4CDC5000000000004C7C4
+t1387580869
+s313284
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c0000000052B4CDC50000000000085C78
+t1387580869
+s547960
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000052B4CDC6000000000008B2C4
+t1387580870
+s570052
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/CoreServices
+c0000000052B4CDC6000000000000979C
+t1387580870
+s38812
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
+c0000000052B4CDC600000000000223B4
+t1387580870
+s140212
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/CarbonCore
+c0000000052B4CDC60000000000071A98
+t1387580870
+s465560
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
+c0000000052B4CDC60000000000017E1C
+t1387580870
+s97820
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
+c0000000052B4CDC6000000000004F094
+t1387580870
+s323732
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Metadata
+c0000000052B4CDC6000000000003AA44
+t1387580870
+s240196
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/OSServices.framework/Versions/A/OSServices
+c0000000052B4CDC600000000000383CC
+t1387580870
+s230348
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/SearchKit.framework/Versions/A/SearchKit
+c0000000052B4CDC6000000000001B66C
+t1387580870
+s112236
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c0000000052B4CDC60000000000030444
+t1387580870
+s197700
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c0000000052B4CDC60000000000017D00
+t1387580870
+s97536
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000052B4CDC600000000000C9E68
+t1387580870
+s826984
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
+c0000000052B4CDC600000000000394F8
+t1387580870
+s234744
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/OpenGL
+c00000000521C0F7B000000000000BB7C
+t1377570683
+s47996
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGL.dylib
+c0000000052B4CDC600000000000211A0
+t1387580870
+s135584
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLU.dylib
+c0000000052B4CDC60000000000005F00
+t1387580870
+s24320
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/QTKit.framework/QTKit
+c0000000052B4CDC6000000000007DA10
+t1387580870
+s514576
+
 N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/QuickTime.framework/QuickTime
 c0000000052B4CDC6000000000006110C
 t1387580870
 s397580
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/crt1.10.6.o
+c0000000052B4CDC800000000000022C4
+t1387580872
+s8900
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+c0000000052B4CDC8000000000000681C
+t1387580872
+s26652
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libc++.dylib
+c0000000052B4CDC8000000000006E8B0
+t1387580872
+s452784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libobjc.A.dylib
+c0000000052B4CDC80000000000014EF8
+t1387580872
+s85752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+c0000000052B4CDC80000000000004734
+t1387580872
+s18228
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+c0000000052B4CDC8000000000000FC6C
+t1387580872
+s64620
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+c0000000052B4CDC8000000000000F6A0
+t1387580872
+s63136
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+c0000000052B4CDC80000000000006254
+t1387580872
+s25172
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+c0000000052B4CDC8000000000000E0F8
+t1387580872
+s57592
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+c0000000052B4CDC8000000000000D6DC
+t1387580872
+s55004
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+c0000000052B4CDC80000000000006308
+t1387580872
+s25352
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+c0000000052B4CDC80000000000004050
+t1387580872
+s16464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+c0000000052B4CDC80000000000008570
+t1387580872
+s34160
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+c0000000052B4CDC80000000000005EA0
+t1387580872
+s24224
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+c0000000052B4CDC80000000000005FAC
+t1387580872
+s24492
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+c0000000052B4CDC80000000000004440
+t1387580872
+s17472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+c0000000052B4CDC8000000000000AA28
+t1387580872
+s43560
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+c0000000052B4CDC80000000000003E2C
+t1387580872
+s15916
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+c0000000052B4CDC80000000000030A24
+t1387580872
+s199204
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+c0000000052B4CDC80000000000005E54
+t1387580872
+s24148
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+c0000000052B4CDC80000000000006A90
+t1387580872
+s27280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+c0000000052B4CDC800000000000178AC
+t1387580872
+s96428
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+c0000000052B4CDC8000000000001ADC8
+t1387580872
+s110024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+c0000000052B4CDC8000000000001028C
+t1387580872
+s66188
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+c0000000052B4CDC80000000000008800
+t1387580872
+s34816
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+c0000000052B4CDC80000000000011090
+t1387580872
+s69776
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+c0000000052B4CDC8000000000000882C
+t1387580872
+s34860
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+c0000000052B4CDC800000000000067AC
+t1387580872
+s26540
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+c0000000052B4CDC80000000000008DEC
+t1387580872
+s36332
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+c0000000052B4CDC80000000000004C08
+t1387580872
+s19464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+c0000000052B4CDC8000000000000439C
+t1387580872
+s17308
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+c0000000052B4CDC80000000000006768
+t1387580872
+s26472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+c0000000052B4CDC800000000000172F4
+t1387580872
+s94964
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.eprintf.a
+c0000000052B4CDCC0000000000000720
+t1387580876
+s1824
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
+c0000000052B4CDCC0000000000001750
+t1387580876
+s5968
 
 N/System/Library/Frameworks/Cocoa.framework/Cocoa
 c000000005271FC1100000000000066C0
@@ -75,9 +430,9 @@ t1393855234
 s459637
 
 N/Users/felixfaire/Developer/CinderProjects/MultiChannelAudioAnalysis/src/MCAAApp.cpp
-c00000000531511590000000000000F3C
-t1393889625
-s3900
+c0000000053176A2F0000000000000EE1
+t1394043439
+s3809
 
 N/Users/felixfaire/Developer/CinderProjects/MultiChannelAudioAnalysis/xcode/Info.plist
 c0000000053148B020000000000000462
@@ -90,7 +445,7 @@ t1393855234
 s301
 
 N/Users/felixfaire/Developer/CinderProjects/MultiChannelAudioAnalysis/xcode/build/Debug/MultiChannelAudioAnalysis.temp_caseinsensitive_rename.app
-t1393889536
+t1394042479
 s102
 
 N/Users/felixfaire/Developer/CinderProjects/MultiChannelAudioAnalysis/xcode/build/Debug/MultiChannelAudioAnalysis.temp_caseinsensitive_rename.app/Contents/Info.plist
@@ -98,8 +453,8 @@ t1393889531
 s1622
 
 N/Users/felixfaire/Developer/CinderProjects/MultiChannelAudioAnalysis/xcode/build/Debug/MultiChannelAudioAnalysis.temp_caseinsensitive_rename.app/Contents/MacOS/MultiChannelAudioAnalysis.temp_caseinsensitive_rename
-t1393889666
-s2921768
+t1394043441
+s2921800
 
 N/Users/felixfaire/Developer/CinderProjects/MultiChannelAudioAnalysis/xcode/build/Debug/MultiChannelAudioAnalysis.temp_caseinsensitive_rename.app/Contents/PkgInfo
 t1393889531
@@ -110,8 +465,8 @@ t1393889531
 s459637
 
 N/Users/felixfaire/Developer/CinderProjects/MultiChannelAudioAnalysis/xcode/build/MultiChannelAudioAnalysis.build/Debug/MultiChannelAudioAnalysis.build/Objects-normal/i386/MCAAApp.o
-t1393889665
-s1802240
+t1394043440
+s1800624
 
 N/Users/felixfaire/Developer/CinderProjects/MultiChannelAudioAnalysis/xcode/build/MultiChannelAudioAnalysis.build/Debug/MultiChannelAudioAnalysis.build/Objects-normal/i386/MultiChannelAudioAnalysis.temp_caseinsensitive_rename.LinkFileList
 c000000005315117D00000000000000B5
@@ -4227,6 +4582,11 @@ c0000000051780B7E0000000000006469
 t1366821758
 s25705
 
+N/Users/felixfaire/Developer/cinder_0.8.5_mac/lib/libcinder_d.a
+c0000000051780F3A000000000178BAF0
+t1366822714
+s24689392
+
 N/var/folders/j0/sw3l2jkn2_qgzwrvbsgp8ldh0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/MultiChannelAudioAnalysis.temp_caseinsensitive_rename_Prefix-bdsllgsyajmfeycrhfpfplbcmfoa/MultiChannelAudioAnalysis.temp_caseinsensitive_rename_Prefix.pch.pch
 t1393889534
 s65544484
@@ -4249,11 +4609,11 @@ r0
 
 CCheck dependencies
 r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies48c4a8fd48c5b841^72feaefd48c5b841^---0#1#1#--18"Check dependencies36"5030FF66-1874-4986-80C9-5F2F9AFCFC23-
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies6a4b61afa1c7b841^64cb66afa1c7b841^---0#1#1#--18"Check dependencies36"E2ABEC8B-539C-472D-BAB9-D48C58620E3D-
 
 CCompileC ./build/MultiChannelAudioAnalysis.build/Debug/MultiChannelAudioAnalysis.build/Objects-normal/i386/MCAAApp.o /Users/felixfaire/Developer/CinderProjects/MultiChannelAudioAnalysis/src/MCAAApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
-s415582464.670955
-e415582465.774462
+s415736239.412096
+e415736240.496606
 r1
 xCompileC
 x./build/MultiChannelAudioAnalysis.build/Debug/MultiChannelAudioAnalysis.build/Objects-normal/i386/MCAAApp.o
@@ -4308,8 +4668,8 @@ d/Users/felixfaire/Developer/cinder_0.8.5_mac/boost/boost/preprocessor/seq/detai
 d/Users/felixfaire/Developer/cinder_0.8.5_mac/boost/boost/preprocessor/seq/to_tuple.hpp
 d/Users/felixfaire/Developer/cinder_0.8.5_mac/boost/boost/preprocessor/seq/transform.hpp
 d/Users/felixfaire/Developer/cinder_0.8.5_mac/include/cinder/audio/Input.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/felixfaire/Developer/CinderProjects/MultiChannelAudioAnalysis/src/MCAAApp.cpp261"CompileC ./build/MultiChannelAudioAnalysis.build/Debug/MultiChannelAudioAnalysis.build/Objects-normal/i386/MCAAApp.o /Users/felixfaire/Developer/CinderProjects/MultiChannelAudioAnalysis/src/MCAAApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler29d0ab0049c5b841^2044c60149c5b841^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/felixfaire/Developer/CinderProjects/MultiChannelAudioAnalysis/src/MCAAApp.cpp0000000000000000^4000"CompileC ./build/MultiChannelAudioAnalysis.build/Debug/MultiChannelAudioAnalysis.build/Objects-normal/i386/MCAAApp.o /Users/felixfaire/Developer/CinderProjects/MultiChannelAudioAnalysis/src/MCAAApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/felixfaire/Developer/CinderProjects/MultiChannelAudioAnalysis/xcode    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.7 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/felixfaire/Developer/CinderProjects/MultiChannelAudioAnalysis/xcode/./build/MultiChannelAudioAnalysis.build/Debug/MultiChannelAudioAnalysis.build/MultiChannelAudioAnalysis.temp_caseinsensitive_rename-generated-files.hmap -I/Users/felixfaire/Developer/CinderProjects/MultiChannelAudioAnalysis/xcode/./build/MultiChannelAudioAnalysis.build/Debug/MultiChannelAudioAnalysis.build/MultiChannelAudioAnalysis.temp_caseinsensitive_rename-own-target-headers.hmap -I/Users/felixfaire/Developer/CinderProjects/MultiChannelAudioAnalysis/xcode/./build/MultiChannelAudioAnalysis.build/Debug/MultiChannelAudioAnalysis.build/MultiChannelAudioAnalysis.temp_caseinsensitive_rename-all-target-headers.hmap -iquote /Users/felixfaire/Developer/CinderProjects/MultiChannelAudioAnalysis/xcode/./build/MultiChannelAudioAnalysis.build/Debug/MultiChannelAudioAnalysis.build/MultiChannelAudioAnalysis.temp_caseinsensitive_rename-project-headers.hmap -iquote../../../cinder_0.8.5_mac/include -iquote../include -iquote../blocks/QuickTime/include -I/Users/felixfaire/Developer/CinderProjects/MultiChannelAudioAnalysis/xcode/build/Debug/include -I../../../cinder_0.8.5_mac/boost -I/Users/felixfaire/Developer/CinderProjects/MultiChannelAudioAnalysis/xcode/./build/MultiChannelAudioAnalysis.build/Debug/MultiChannelAudioAnalysis.build/DerivedSources/i386 -I/Users/felixfaire/Developer/CinderProjects/MultiChannelAudioAnalysis/xcode/./build/MultiChannelAudioAnalysis.build/Debug/MultiChannelAudioAnalysis.build/DerivedSources -F/Users/felixfaire/Developer/CinderProjects/MultiChannelAudioAnalysis/xcode/build/Debug -include /var/folders/j0/sw3l2jkn2_qgzwrvbsgp8ldh0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/MultiChannelAudioAnalysis.temp_caseinsensitive_rename_Prefix-gllbsivijjdyvwfzvluiihnvxxxp/MultiChannelAudioAnalysis.temp_caseinsensitive_rename_Prefix.pch -MMD -MT dependencies -MF /Users/felixfaire/Developer/CinderProjects/MultiChannelAudioAnalysis/xcode/./build/MultiChannelAudioAnalysis.build/Debug/MultiChannelAudioAnalysis.build/Objects-normal/i386/MCAAApp.d --serialize-diagnostics /Users/felixfaire/Developer/CinderProjects/MultiChannelAudioAnalysis/xcode/./build/MultiChannelAudioAnalysis.build/Debug/MultiChannelAudioAnalysis.build/Objects-normal/i386/MCAAApp.dia -c /Users/felixfaire/Developer/CinderProjects/MultiChannelAudioAnalysis/src/MCAAApp.cpp -o /Users/felixfaire/Developer/CinderProjects/MultiChannelAudioAnalysis/xcode/build/MultiChannelAudioAnalysis.build/Debug/MultiChannelAudioAnalysis.build/Objects-normal/i386/MCAAApp.o36"5C6D3307-BF40-4C46-911E-BD1CECDF81E5-
-bCDFB4EEA-C4F6-4BB9-9BA3-E05D0D979C8E
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/felixfaire/Developer/CinderProjects/MultiChannelAudioAnalysis/src/MCAAApp.cpp261"CompileC ./build/MultiChannelAudioAnalysis.build/Debug/MultiChannelAudioAnalysis.build/Objects-normal/i386/MCAAApp.o /Users/felixfaire/Developer/CinderProjects/MultiChannelAudioAnalysis/src/MCAAApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler438e69afa1c7b841^9f227fb0a1c7b841^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/felixfaire/Developer/CinderProjects/MultiChannelAudioAnalysis/src/MCAAApp.cpp0000000000000000^4000"CompileC ./build/MultiChannelAudioAnalysis.build/Debug/MultiChannelAudioAnalysis.build/Objects-normal/i386/MCAAApp.o /Users/felixfaire/Developer/CinderProjects/MultiChannelAudioAnalysis/src/MCAAApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/felixfaire/Developer/CinderProjects/MultiChannelAudioAnalysis/xcode    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=c++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.7 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/felixfaire/Developer/CinderProjects/MultiChannelAudioAnalysis/xcode/./build/MultiChannelAudioAnalysis.build/Debug/MultiChannelAudioAnalysis.build/MultiChannelAudioAnalysis.temp_caseinsensitive_rename-generated-files.hmap -I/Users/felixfaire/Developer/CinderProjects/MultiChannelAudioAnalysis/xcode/./build/MultiChannelAudioAnalysis.build/Debug/MultiChannelAudioAnalysis.build/MultiChannelAudioAnalysis.temp_caseinsensitive_rename-own-target-headers.hmap -I/Users/felixfaire/Developer/CinderProjects/MultiChannelAudioAnalysis/xcode/./build/MultiChannelAudioAnalysis.build/Debug/MultiChannelAudioAnalysis.build/MultiChannelAudioAnalysis.temp_caseinsensitive_rename-all-target-headers.hmap -iquote /Users/felixfaire/Developer/CinderProjects/MultiChannelAudioAnalysis/xcode/./build/MultiChannelAudioAnalysis.build/Debug/MultiChannelAudioAnalysis.build/MultiChannelAudioAnalysis.temp_caseinsensitive_rename-project-headers.hmap -iquote../../../cinder_0.8.5_mac/include -iquote../include -iquote../blocks/QuickTime/include -I/Users/felixfaire/Developer/CinderProjects/MultiChannelAudioAnalysis/xcode/build/Debug/include -I../../../cinder_0.8.5_mac/boost -I/Users/felixfaire/Developer/CinderProjects/MultiChannelAudioAnalysis/xcode/./build/MultiChannelAudioAnalysis.build/Debug/MultiChannelAudioAnalysis.build/DerivedSources/i386 -I/Users/felixfaire/Developer/CinderProjects/MultiChannelAudioAnalysis/xcode/./build/MultiChannelAudioAnalysis.build/Debug/MultiChannelAudioAnalysis.build/DerivedSources -F/Users/felixfaire/Developer/CinderProjects/MultiChannelAudioAnalysis/xcode/build/Debug -include /var/folders/j0/sw3l2jkn2_qgzwrvbsgp8ldh0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/MultiChannelAudioAnalysis.temp_caseinsensitive_rename_Prefix-gllbsivijjdyvwfzvluiihnvxxxp/MultiChannelAudioAnalysis.temp_caseinsensitive_rename_Prefix.pch -MMD -MT dependencies -MF /Users/felixfaire/Developer/CinderProjects/MultiChannelAudioAnalysis/xcode/./build/MultiChannelAudioAnalysis.build/Debug/MultiChannelAudioAnalysis.build/Objects-normal/i386/MCAAApp.d --serialize-diagnostics /Users/felixfaire/Developer/CinderProjects/MultiChannelAudioAnalysis/xcode/./build/MultiChannelAudioAnalysis.build/Debug/MultiChannelAudioAnalysis.build/Objects-normal/i386/MCAAApp.dia -c /Users/felixfaire/Developer/CinderProjects/MultiChannelAudioAnalysis/src/MCAAApp.cpp -o /Users/felixfaire/Developer/CinderProjects/MultiChannelAudioAnalysis/xcode/build/MultiChannelAudioAnalysis.build/Debug/MultiChannelAudioAnalysis.build/Objects-normal/i386/MCAAApp.o36"299E521D-9D1D-444C-A9D0-49ABD09B2C9A-
+b047E6EDE-1041-4DD5-8137-40FB3367EC55
 
 CCompileC ./build/MultiChannelAudioAnalysis.build/Debug/MultiChannelAudioAnalysis.build/Objects-normal/i386/MCAAApp.o /Users/felixfaire/Developer/CinderProjects/StereoAudioAnalysis/src/MCAAApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
 s415582334.515911
@@ -4394,8 +4754,8 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Copy b
 bAA9431B1-9C74-4220-9FDF-C3504CFD9703
 
 CLd /Users/felixfaire/Developer/CinderProjects/MultiChannelAudioAnalysis/xcode/./build/Debug/MultiChannelAudioAnalysis.temp_caseinsensitive_rename.app/Contents/MacOS/MultiChannelAudioAnalysis.temp_caseinsensitive_rename normal i386
-s415582465.775169
-e415582466.309613
+s415736240.497975
+e415736241.043720
 r1
 xLd
 x/Users/felixfaire/Developer/CinderProjects/MultiChannelAudioAnalysis/xcode/./build/Debug/MultiChannelAudioAnalysis.temp_caseinsensitive_rename.app/Contents/MacOS/MultiChannelAudioAnalysis.temp_caseinsensitive_rename
@@ -4447,18 +4807,20 @@ d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AppKit.framework/AppKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreData.framework/CoreData
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLU.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGL.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vImage.framework/Versions/A/vImage
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/vecLib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libvDSP.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AppKit.framework/AppKit
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Foundation
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libvMisc.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libLAPACK.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libBLAS.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libobjc.A.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreText.framework/CoreText
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
@@ -4470,8 +4832,6 @@ d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Versions/A/PrintCore
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/QD.framework/Versions/A/QD
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/SpeechSynthesis
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libobjc.A.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/CarbonCore
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Metadata
@@ -4480,8 +4840,8 @@ d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection220"Link /Users/felixfaire/Developer/CinderProjects/MultiChannelAudioAnalysis/xcode/./build/Debug/MultiChannelAudioAnalysis.temp_caseinsensitive_rename.app/Contents/MacOS/MultiChannelAudioAnalysis.temp_caseinsensitive_rename155"Ld ./build/Debug/MultiChannelAudioAnalysis.temp_caseinsensitive_rename.app/Contents/MacOS/MultiChannelAudioAnalysis.temp_caseinsensitive_rename normal i386187cc60149c5b841^fa434f0249c5b841^---0#0#1#--1706"Ld ./build/Debug/MultiChannelAudioAnalysis.temp_caseinsensitive_rename.app/Contents/MacOS/MultiChannelAudioAnalysis.temp_caseinsensitive_rename normal i386    cd /Users/felixfaire/Developer/CinderProjects/MultiChannelAudioAnalysis/xcode    setenv MACOSX_DEPLOYMENT_TARGET 10.7    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/felixfaire/Developer/CinderProjects/MultiChannelAudioAnalysis/xcode/build/Debug -F/Users/felixfaire/Developer/CinderProjects/MultiChannelAudioAnalysis/xcode/build/Debug -filelist /Users/felixfaire/Developer/CinderProjects/MultiChannelAudioAnalysis/xcode/./build/MultiChannelAudioAnalysis.build/Debug/MultiChannelAudioAnalysis.build/Objects-normal/i386/MultiChannelAudioAnalysis.temp_caseinsensitive_rename.LinkFileList -mmacosx-version-min=10.7 -dead_strip ../../../cinder_0.8.5_mac/lib/libcinder_d.a -stdlib=libc++ -framework Cocoa -framework OpenGL -framework CoreVideo -framework QTKit -framework Accelerate -framework AudioToolbox -framework AudioUnit -framework CoreAudio -framework QuickTime -Xlinker -dependency_info -Xlinker /Users/felixfaire/Developer/CinderProjects/MultiChannelAudioAnalysis/xcode/./build/MultiChannelAudioAnalysis.build/Debug/MultiChannelAudioAnalysis.build/Objects-normal/i386/MultiChannelAudioAnalysis.temp_caseinsensitive_rename_dependency_info.dat -o /Users/felixfaire/Developer/CinderProjects/MultiChannelAudioAnalysis/xcode/./build/Debug/MultiChannelAudioAnalysis.temp_caseinsensitive_rename.app/Contents/MacOS/MultiChannelAudioAnalysis.temp_caseinsensitive_rename36"E211A311-A2E2-4681-B081-CFA1EFF9ADD7-
-bCDFB4EEA-C4F6-4BB9-9BA3-E05D0D979C8E
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection220"Link /Users/felixfaire/Developer/CinderProjects/MultiChannelAudioAnalysis/xcode/./build/Debug/MultiChannelAudioAnalysis.temp_caseinsensitive_rename.app/Contents/MacOS/MultiChannelAudioAnalysis.temp_caseinsensitive_rename155"Ld ./build/Debug/MultiChannelAudioAnalysis.temp_caseinsensitive_rename.app/Contents/MacOS/MultiChannelAudioAnalysis.temp_caseinsensitive_rename normal i3863c867fb0a1c7b841^be320bb1a1c7b841^---0#0#1#--1706"Ld ./build/Debug/MultiChannelAudioAnalysis.temp_caseinsensitive_rename.app/Contents/MacOS/MultiChannelAudioAnalysis.temp_caseinsensitive_rename normal i386    cd /Users/felixfaire/Developer/CinderProjects/MultiChannelAudioAnalysis/xcode    setenv MACOSX_DEPLOYMENT_TARGET 10.7    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/felixfaire/Developer/CinderProjects/MultiChannelAudioAnalysis/xcode/build/Debug -F/Users/felixfaire/Developer/CinderProjects/MultiChannelAudioAnalysis/xcode/build/Debug -filelist /Users/felixfaire/Developer/CinderProjects/MultiChannelAudioAnalysis/xcode/./build/MultiChannelAudioAnalysis.build/Debug/MultiChannelAudioAnalysis.build/Objects-normal/i386/MultiChannelAudioAnalysis.temp_caseinsensitive_rename.LinkFileList -mmacosx-version-min=10.7 -dead_strip ../../../cinder_0.8.5_mac/lib/libcinder_d.a -stdlib=libc++ -framework Cocoa -framework OpenGL -framework CoreVideo -framework QTKit -framework Accelerate -framework AudioToolbox -framework AudioUnit -framework CoreAudio -framework QuickTime -Xlinker -dependency_info -Xlinker /Users/felixfaire/Developer/CinderProjects/MultiChannelAudioAnalysis/xcode/./build/MultiChannelAudioAnalysis.build/Debug/MultiChannelAudioAnalysis.build/Objects-normal/i386/MultiChannelAudioAnalysis.temp_caseinsensitive_rename_dependency_info.dat -o /Users/felixfaire/Developer/CinderProjects/MultiChannelAudioAnalysis/xcode/./build/Debug/MultiChannelAudioAnalysis.temp_caseinsensitive_rename.app/Contents/MacOS/MultiChannelAudioAnalysis.temp_caseinsensitive_rename36"63DF1F13-E4B1-4B73-80E8-F6C8E079E872-
+b047E6EDE-1041-4DD5-8137-40FB3367EC55
 
 CLd /Users/felixfaire/Developer/CinderProjects/StereoAudioAnalysis/xcode/./build/Debug/MultiChannelAudioAnalysis.app/Contents/MacOS/MultiChannelAudioAnalysis normal i386
 r0
@@ -6217,13 +6577,13 @@ CProcessPCH++ /var/folders/j0/sw3l2jkn2_qgzwrvbsgp8ldh0000gn/C/com.apple.Develop
 r0
 
 CTouch /Users/felixfaire/Developer/CinderProjects/MultiChannelAudioAnalysis/xcode/./build/Debug/MultiChannelAudioAnalysis.temp_caseinsensitive_rename.app
-s415582466.310349
-e415582466.313241
+s415736241.044461
+e415736241.047392
 r1
 xTouch
 x/Users/felixfaire/Developer/CinderProjects/MultiChannelAudioAnalysis/xcode/./build/Debug/MultiChannelAudioAnalysis.temp_caseinsensitive_rename.app
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection152"Touch /Users/felixfaire/Developer/CinderProjects/MultiChannelAudioAnalysis/xcode/./build/Debug/MultiChannelAudioAnalysis.temp_caseinsensitive_rename.app77"Touch ./build/Debug/MultiChannelAudioAnalysis.temp_caseinsensitive_rename.app5b7b4f0249c5b841^2332500249c5b841^---0#0#1#--329"Touch ./build/Debug/MultiChannelAudioAnalysis.temp_caseinsensitive_rename.app    cd /Users/felixfaire/Developer/CinderProjects/MultiChannelAudioAnalysis/xcode    /usr/bin/touch -c /Users/felixfaire/Developer/CinderProjects/MultiChannelAudioAnalysis/xcode/./build/Debug/MultiChannelAudioAnalysis.temp_caseinsensitive_rename.app36"8571292E-0D60-4986-B243-7D4C802C8D34-
-bCDFB4EEA-C4F6-4BB9-9BA3-E05D0D979C8E
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection152"Touch /Users/felixfaire/Developer/CinderProjects/MultiChannelAudioAnalysis/xcode/./build/Debug/MultiChannelAudioAnalysis.temp_caseinsensitive_rename.app77"Touch ./build/Debug/MultiChannelAudioAnalysis.temp_caseinsensitive_rename.app406a0bb1a1c7b841^21230cb1a1c7b841^---0#0#1#--329"Touch ./build/Debug/MultiChannelAudioAnalysis.temp_caseinsensitive_rename.app    cd /Users/felixfaire/Developer/CinderProjects/MultiChannelAudioAnalysis/xcode    /usr/bin/touch -c /Users/felixfaire/Developer/CinderProjects/MultiChannelAudioAnalysis/xcode/./build/Debug/MultiChannelAudioAnalysis.temp_caseinsensitive_rename.app36"8DD19540-81BA-4416-8DBD-78F3A38E5DB8-
+b047E6EDE-1041-4DD5-8137-40FB3367EC55
 
 CTouch /Users/felixfaire/Developer/CinderProjects/StereoAudioAnalysis/xcode/./build/Debug/MultiChannelAudioAnalysis.app
 r0

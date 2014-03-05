@@ -23,11 +23,13 @@ public:
 	void draw();
 	void drawWaveForm( float height );
     
-	void drawFft();
-
+	void drawFft( std::shared_ptr<float> mFftDataRef );
+    
 	
 	audio::Input mInput;
-	std::shared_ptr<float> mFftDataRef;
+	std::shared_ptr<float> mFftDataRefL;
+    std::shared_ptr<float> mFftDataRefR;
+    std::shared_ptr<float> mFftDataRefT;
 	audio::PcmBuffer32fRef mPcmBuffer;
 };
 
@@ -53,11 +55,13 @@ void MCAA_App::update()
 	if( ! mPcmBuffer ) {
 		return;
 	}
-
+    
 	uint16_t bandCount = 512;
 	//presently FFT only works on OS X, not iOS
-	mFftDataRef = audio::calculateFft( mPcmBuffer->getChannelData( audio::CHANNEL_FRONT_LEFT ), bandCount );
-
+	mFftDataRefL = audio::calculateFft( mPcmBuffer->getChannelData( audio::CHANNEL_FRONT_LEFT ), bandCount );
+    mFftDataRefR = audio::calculateFft( mPcmBuffer->getChannelData( audio::CHANNEL_FRONT_RIGHT), bandCount );
+    mFftDataRefT = audio::calculateFft( mPcmBuffer->getChannelData( audio::CHANNEL_FRONT_TOP), bandCount );
+    
 }
 
 void MCAA_App::draw()
@@ -76,7 +80,9 @@ void MCAA_App::draw()
     drawWaveForm( waveFormHeight );
     
     
-    //drawFft();
+    drawFft(mFftDataRefL);
+    drawFft(mFftDataRefR);
+    drawFft(mFftDataRefT);
     
 	glPopMatrix();
 }
@@ -88,11 +94,10 @@ void MCAA_App::drawWaveForm( float height )
 	}
 	
 	uint32_t bufferSamples = mPcmBuffer->getSampleCount();
-    console() << bufferSamples << std::endl;
-    console() << mInput.getSampleRate() << std::endl;
+    
 	audio::Buffer32fRef leftBuffer = mPcmBuffer->getChannelData( audio::CHANNEL_FRONT_LEFT);
 	audio::Buffer32fRef rightBuffer = mPcmBuffer->getChannelData( audio::CHANNEL_FRONT_RIGHT );
-    audio::Buffer32fRef topBuffer = mPcmBuffer->getChannelData( audio::CHANNEL_FRONT_TOP );
+    //    audio::Buffer32fRef topBuffer = mPcmBuffer->getChannelData( audio::CHANNEL_FRONT_TOP );
     
 	int displaySize = getWindowWidth();
 	int endIdx = bufferSamples;
@@ -118,28 +123,28 @@ void MCAA_App::drawWaveForm( float height )
         
 		lineL.push_back( Vec2f( ( c * scale ), yL ) );
         lineR.push_back( Vec2f( ( c * scale ), yR ) );
-        lineT.push_back( Vec2f( ( c * scale ), yT ) );
+               lineT.push_back( Vec2f( ( c * scale ), yT ) );
 	}
     
-    gl::draw( lineT );
+      gl::draw( lineT );
     
     glPushMatrix();
-    glTranslatef(0.0f, -50.0f, 0.0f);
+    glTranslatef(0.0f, -100.0f, 0.0f);
     gl::draw( lineL );
-    glTranslatef(0.0f, 100.0f, 0.0f);
+    glTranslatef(0.0f, 200.0f, 0.0f);
     gl::draw( lineR );
     glPopMatrix();
 	
     
 }
 
-void MCAA_App::drawFft()
+void MCAA_App::drawFft( std::shared_ptr<float> mFftDataRef )
 {
 	uint16_t bandCount = 512;
 	float ht = 1000.0f;
 	float bottom = 150.0f;
 	
-	if( ! mFftDataRef ) {
+	if( ! mFftDataRefL ) {
 		return;
 	}
 	
